@@ -26,4 +26,4 @@
 ---
 
 ## 🎯 Centres d’intérêt
-🏀 Sport | 🎬 Cinéma | 🎵 Musique | 🎭 Théâtre | 🔬 Sciences
+<kbd>🏀 Sport</kbd> <kbd>🎬 Cinéma & Audiovisuel</kbd> <kbd>🎵 Musique</kbd> <kbd>🎭 Théâtre</kbd> <kbd>🔬 Sciences</kbd> <kbd>➗ Maths</kbd> <kbd>⚛️ Physique</kbd>
