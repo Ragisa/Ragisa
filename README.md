@@ -1,11 +1,6 @@
 # Salut, je suis Eren
-
-Étudiant à l'Université de Strasbourg. Passionné par beaucoup trop de truc.
-
----
-
-## 🌐 Contact
 [📧 Email](mailto:e.guclu@unistra.fr)
+Étudiant à l'Université de Strasbourg. Passionné par beaucoup trop de truc.
 
 ---
 
