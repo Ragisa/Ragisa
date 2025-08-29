@@ -1,5 +1,5 @@
 # Salut, je suis Eren
-[📧 Email](mailto:e.guclu@unistra.fr)
+[e.guclu@unistra.fr](mailto:e.guclu@unistra.fr)
 
 Étudiant à l'Université de Strasbourg. Passionné par beaucoup trop de truc.
 
