@@ -1,6 +1,6 @@
-# 👋 Salut, je suis Eren GUCLU
+# 👋 Salut, je suis Eren
 
-Étudiant en **L1 Mathématiques & Informatique** à l'Université de Strasbourg. Passionné par le **développement**, le **cinéma** et les **sciences**.  
+Étudiant à l'Université de Strasbourg. Passionné par beaucoup trop de truc.
 
 ---
 
