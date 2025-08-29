@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Eren
+# Salut, je suis Eren
 
 Étudiant à l'Université de Strasbourg. Passionné par beaucoup trop de truc.
 
@@ -27,3 +27,15 @@
 
 ## 🎯 Centres d’intérêt
 <kbd>🏀 Sport</kbd> <kbd>🎬 Cinéma & Audiovisuel</kbd> <kbd>🎵 Musique</kbd> <kbd>🎭 Théâtre</kbd> <kbd>🔬 Sciences</kbd> <kbd>➗ Maths</kbd> <kbd>⚛️ Physique</kbd>
+
+---
+
+## 📊 Statistiques GitHub
+![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eren-guclu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🏆 Badges & Réalisations
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=eren-guclu&theme=radical&margin-w=15&margin-h=15)
+
+---
