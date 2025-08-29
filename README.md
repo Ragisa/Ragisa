@@ -31,11 +31,11 @@
 ---
 
 ## 📊 Statistiques GitHub
-![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eren-guclu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ragisa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## 🏆 Badges & Réalisations
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=eren-guclu&theme=radical&margin-w=15&margin-h=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ragisa&theme=radical&margin-w=15&margin-h=15)
 
 ---
