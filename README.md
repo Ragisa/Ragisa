@@ -33,9 +33,3 @@
 ## 📊 Statistiques GitHub
 ![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ragisa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
----
-
-## 🏆 Badges & Réalisations
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ragisa&theme=radical&margin-w=15&margin-h=15)
-
----
