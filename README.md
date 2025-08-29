@@ -3,6 +3,7 @@
 Étudiant à l'Université de Strasbourg. Passionné par beaucoup trop de truc.
 
 [e.guclu@unistra.fr](mailto:e.guclu@unistra.fr)
+
 ---
 
 ## 🏷️ Compétences
